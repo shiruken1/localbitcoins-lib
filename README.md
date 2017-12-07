@@ -17,7 +17,7 @@ This is a NodeJS client library for interfacing [localbitcoins](https://localbit
 
 ## Installation
 
-`npm install localbitcoins-lib`
+`npm install git://github.com/shiruken1/localbitcoins-lib.git`
 
 ## Quick Start
 
