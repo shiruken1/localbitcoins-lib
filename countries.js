@@ -232,3 +232,5 @@ const countryCodes = {
     "ZM": "Zambia",
     "ZW": "Zimbabwe"
 };
+
+module.exports = countryCodes;
